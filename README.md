@@ -1,4 +1,5 @@
-- Building, debugging and reviewing code
+Hello 👋 
+- I enjoy building, debugging and reviewing code
 - Pragmatic problem solver
 - I'm always interested in new opportunities
 - You can reach me via my [LinkedIn](https://www.linkedin.com/in/patrick-schuster-5ab324144/)
